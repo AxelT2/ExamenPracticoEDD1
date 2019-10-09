@@ -39,7 +39,6 @@ public class EXAMEN_7_20PTS {
             imprimirArreglo(arreglo, valor1, valor2);
         else
             imprimirArreglo(arreglo, valor1, valor2);
-        imprimirArreglo(arreglo);
     }
     
     public static void imprimirArreglo(int[] arreglo){
